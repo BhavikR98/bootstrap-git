@@ -1,0 +1,96 @@
+#footer {
+    height: 60px;
+    font-weight: bold;
+    background-color: whitesmoke;
+    color: black;
+}
+#table {
+    padding-top: 60px;
+}
+#button {
+    padding-left: 500px;
+    padding-bottom: 60px;
+}
+#learn {
+    color: black;
+    padding-left: 360px;
+}
+.padding-top {
+    padding-top: 20px;
+}
+.navBar {
+    margin-bottom: 0;
+    background-color: whitesmoke;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+.navBar-default .navBar-toggle {
+    border-color: transparent;
+    color: black !important;
+}
+.navBar li a, .navBar .navBar-brand {
+    color: black !important;
+}
+.index-font-light {
+    font-weight: lighter;
+    text-decoration-color: #4e555b;
+    font-size: 1.75em;
+    font-family: Lato, serif;
+    padding-bottom: 40px;
+}
+.padding-bottom {
+    padding-bottom: 113px;
+}
+.padding-bottom-people {
+    padding-bottom: 30px;
+}
+.heading {
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: overline underline;
+    font-size: 3.75em;
+    padding-bottom: 30px;
+}
+.padding-computers {
+    padding-left: 180px;
+}
+.padding-ibm {
+    padding-left: 100px;
+}
+.padding-leo {
+    padding-left: 60px;
+}
+.padding-lawrence {
+    padding-left: 160px;
+}
+.padding-vint {
+    padding-left: 50px;
+}
+.padding-tim {
+    padding-left: 25px;
+}
+.text-center {
+    text-align: center;
+}
+.carousel-item {
+    height: 100vh;
+    min-height: 600px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.logo {
+    padding-left: 160px;
+    margin-top: 10px;
+}
+.font-heavy {
+    font-weight: bold;
+    text-decoration: underline overline;
+}
